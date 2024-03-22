@@ -1,5 +1,5 @@
 # custom_model_tensorflow
-![Uploading Ekran görüntüsü 2024-03-22 160530.png…]()
+![Ekran görüntüsü 2024-03-22 160530](https://github.com/Emrekorkmz0/custom_model_tensorflow/assets/130879773/8ed5a5f7-33d1-4f16-84e9-b6bb35a20d26)
 
 
 
